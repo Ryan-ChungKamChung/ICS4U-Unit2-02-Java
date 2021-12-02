@@ -1,5 +1,5 @@
 /*
-* This is a program reverses a string via recursion.
+* This is a program that calculates factorials via recursion.
 *
 * @author  Ryan Chung
 * @version 1.0
