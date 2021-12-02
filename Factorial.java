@@ -70,10 +70,11 @@ final class Factorial {
             factorial = factorial(input);
             System.out.println(factorial);
 
-            System.out.println("\nDone.");
         } catch (IOException | NumberFormatException exception) {
             System.out.println("Please enter an integer.");
         }
+
+        System.out.println("\nDone.");
     }
 }
 
